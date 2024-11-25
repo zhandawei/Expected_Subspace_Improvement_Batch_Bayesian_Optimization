@@ -1,0 +1,2 @@
+# Expected_Subspace_Improvement_Batch_Bayesian_Optimization
+ Batch Bayesian Optimization via Expected Subspace Improvement
